@@ -2,7 +2,7 @@
 
 I'm Haifeng, a software developer based in Calgary. I work across Software Design, Software Development and prototyping to create intuitive development for products. I strive to create thinks that connect users to the product.
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haifzhan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Haifeng's GitHub Stats" /></a> | <a href="https://github.com/haifzhan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haifzhan&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/haifzhan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haifzhan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Haifeng's GitHub Stats" /></a> | <a href="https://github.com/haifzhan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haifzhan&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!-- 
