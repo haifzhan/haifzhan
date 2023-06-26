@@ -2,24 +2,12 @@
 
 I'm Haifeng, a software developer based in Calgary. I work across Software Design, Software Development and prototyping to create intuitive development for products. I strive to create thinks that connect users to the product.
 
-| <a href="https://github.com/haifzhan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haifzhan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Haifeng's GitHub Stats" /></a> | <a href="https://github.com/haifzhan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haifzhan&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-<!-- 
-----
-[<img src="https://github-profile-trophy.vercel.app/?username=haifzhan&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
-[<img src="https://github-readme-stats.vercel.app/api?username=haifzhan&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haifzhan&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haifzhan&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- -->
-
-
 
 ## You can find me:
 
 <p align = "center">
   
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=red">](https://haifzhan.com)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=red">](https://haifzhan.ca)
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=blue" />](https://www.linkedin.com/in/haifzhan/)
 
 </p>
