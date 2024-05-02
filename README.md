@@ -8,6 +8,7 @@ I'm Haifeng, an experience fullstack software developer based in Calgary. I work
 <p align = "center">
   
 [<img src ="https://img.shields.io/badge/Personal website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=red">](https://haifzhan.ca)
+[<img src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=FCC624" />]([https://www.linkedin.com/in/haifzhan/](https://stackoverflow.com/users/1735756/haifeng-zhang))
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=blue" />](https://www.linkedin.com/in/haifzhan/)
 
 </p>
