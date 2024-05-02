@@ -3,7 +3,7 @@
 I'm Haifeng, an experience fullstack software developer based in Calgary. I work across Software Design, Software Development and prototyping to create intuitive development for products. I strive to create thinks that connect users to the product.
 
 
-## You can find me:
+## Haifeng
 
 <p align = "center">
   
@@ -13,14 +13,14 @@ I'm Haifeng, an experience fullstack software developer based in Calgary. I work
 </p>
 
 
-## Dev Tools:
+## Tools:
 
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Mac](https://img.shields.io/badge/MacOS-FCC624?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-232F3E.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
-## Most Efficient Languages
+## Languages
 
 ![Typescript](https://img.shields.io/badge/Typescript-3776AB?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
